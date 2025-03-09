@@ -1,4 +1,10 @@
 {
-  "api_key": "your-secret-api-key",
-  "model": "gemini-2.0-flash"
+  "api_models": [
+    {
+      "name": "Gemini",
+      "model": "gemini-2.0-flash",
+      "api_key": "AIzaSyBUiSSswKvLvEK7rydCCRPF50eIDI_KOGc"
+    }
+  ],
+  "default_model": "gemini-2.0-flash"
 }
